@@ -1,5 +1,5 @@
 # LearnLeague — College Learning, Competitions & Placement-Readiness Platform
-> **Phase 1: Functional Frontend Prototype (JavaScript + React 19 + Tailwind CSS + Vite)**
+
 
 LearnLeague consolidates university coursework, timed milestone assessments, peer knowledge sharing, student project verification, and a normalized **Placement Readiness Score (PRS)** calculator into one unified platform.
 
