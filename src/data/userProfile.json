@@ -1,0 +1,79 @@
+{
+  "studentUser": {
+    "id": "usr_student",
+    "role": "student",
+    "name": "Aryan Rajendra Shete",
+    "email": "aryan.shete@dypcoeakurdi.ac.in",
+    "college": "D. Y. Patil College Of Engineering, Akurdi",
+    "department": "Artificial Intelligence and Data Science",
+    "year": "4th Year",
+    "semester": 7,
+    "rollNumber": "BEAIDA071",
+    "bio": "Undergraduate focusing on Artificial Intelligence, Machine Learning and web applications.",
+    "streakDays": 14,
+    "points": 850,
+    "skills": [
+      {
+        "name": "Artificial Intelligence & ML",
+        "level": 85
+      },
+      {
+        "name": "Data Structures & Algorithms",
+        "level": 85
+      },
+      {
+        "name": "React & JavaScript",
+        "level": 90
+      },
+      {
+        "name": "Python & Deep Learning",
+        "level": 80
+      },
+      {
+        "name": "Node.js & Databases",
+        "level": 75
+      },
+      {
+        "name": "System Design",
+        "level": 65
+      }
+    ],
+    "socialLinks": {
+      "github": "https://github.com",
+      "linkedin": "https://linkedin.com",
+      "leetcode": "https://leetcode.com"
+    },
+    "badges": [
+      {
+        "id": "b1",
+        "title": "Daily Learner",
+        "tier": "Gold",
+        "icon": "flame",
+        "description": "Completed learning modules consecutively."
+      },
+      {
+        "id": "b2",
+        "title": "Algorithmic Solver",
+        "tier": "Platinum",
+        "icon": "code",
+        "description": "Successfully passed milestone assessments."
+      },
+      {
+        "id": "b3",
+        "title": "Project Builder",
+        "tier": "Silver",
+        "icon": "git-commit",
+        "description": "Repository verified by faculty reviewer."
+      }
+    ]
+  },
+  "adminUser": {
+    "id": "usr_admin",
+    "role": "admin",
+    "name": "Dr. Deepali Sale",
+    "email": "sample@gmail.com",
+    "college": "D. Y. Patil College Of Engineering, Akurdi ",
+    "department": "Department of Artificial Intelligence & Data Science",
+    "roleTitle": "Assistant Professor"
+  }
+}
